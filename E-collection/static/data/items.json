@@ -1,0 +1,51 @@
+[
+    {
+        "id": 0,
+        "name": "Rubie Tuskbrow",
+        "picture": "./static/images/Rubie Tuskbrow.png",
+        "category": "Kings Beyond",
+        "popularity": "95",
+        "price": "28"
+    },
+    {
+        "id": 1,
+        "name": "Chubby Magnificent",
+        "picture": "./static/images/Chubby Magnificent.png",
+        "category": "CryptoKitties",
+        "popularity": "75",
+        "price": "20"
+    },
+    {
+        "id": 2,
+        "name": "MCH-Hero",
+        "picture": "./static/images/MCH-Hero.png",
+        "category": "MHeroes",
+        "popularity": "50",
+        "price": "16"
+    },
+    {
+        "id": 3,
+        "name": "Minu Sullenwuv",
+        "picture": "./static/images/Minu Sullenwuv.png",
+        "category": "CryptoKitties",
+        "popularity": "40",
+        "price": "30"
+    },
+    {
+        "id": 4,
+        "name": "Dragon Tooth Warrior",
+        "picture": "./static/images/Dragon Tooth Warrior.png",
+        "category": "Gods unchained",
+        "popularity": "15",
+        "price": "15"
+    },
+    {
+        "id": 5,
+        "name": "Thick Gauntlets",
+        "picture": "./static/images/Thick Gauntlets.png",
+        "category": "Infinity Stars",
+        "popularity": "5",
+        "price": "30"
+    }
+
+]
